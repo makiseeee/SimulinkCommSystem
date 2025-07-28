@@ -1,0 +1,15 @@
+# MATLAB/Simulink binary files
+*.mlx binary
+*.mat binary
+*.fig binary
+*.mlapp binary
+*.mdl binary
+*.slx binary
+*.mdlp binary
+*.slxp binary
+*.sldd binary
+*.p binary
+*.mexa64 binary
+*.mexmaci64 binary
+*.mexmaca64 binary
+*.mexw64 binary
